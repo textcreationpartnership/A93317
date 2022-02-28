@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Excceding [sic] certain and true newes from Munster, Lemster, Waxford, Ulster, Conough, Tiperarey, and Dublin; otherwise called the English Pale. Being the true copie of a letter sent from a marchant in Dublin, a man well knowne in London, one Captaine Scout, a Dutch-man, living on the marchants key, neer Sir Willaim Parsons, one of the Lord Justices of Ireland to his worthy friend Mr. Van-Hooker. Bearing date, January 2. 1643.</title>
+            <author>Skout, J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93317</idno>
+            <idno type="STC">Wing S3954</idno>
+            <idno type="STC">Thomason E84_26</idno>
+            <idno type="STC">ESTC R11172</idno>
+            <idno type="EEBO-CITATION">99858948</idno>
+            <idno type="PROQUEST">99858948</idno>
+            <idno type="VID">111008</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93317)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111008)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E84[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Excceding [sic] certain and true newes from Munster, Lemster, Waxford, Ulster, Conough, Tiperarey, and Dublin; otherwise called the English Pale. Being the true copie of a letter sent from a marchant in Dublin, a man well knowne in London, one Captaine Scout, a Dutch-man, living on the marchants key, neer Sir Willaim Parsons, one of the Lord Justices of Ireland to his worthy friend Mr. Van-Hooker. Bearing date, January 2. 1643.</title>
+                  <author>Skout, J.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>January 9. Printed by T. Fawcett, for J. B.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J. Skout.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Place of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111008:1"/>
+            <pb facs="tcp:111008:1" rendition="simple:additions"/>
+            <p>Excceding certain and true NEWES FROM
+<list>
+                  <item>Munſter.</item>
+                  <item>Lemſter,</item>
+                  <item>Waxford,</item>
+                  <item>Ulſter,</item>
+                  <item>Conough,</item>
+                  <item>Tiperar<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y,</item>
+                  <item>
+                     <hi>AND DVBLIN;</hi>
+                  </item>
+               </list> 
+               <hi>Otherwiſe called the Engliſh Pale.</hi>
+            </p>
+            <p>Being the true Copie of a Letter ſent From a Marchant in <hi>Dublin,</hi> a man well knowne in <hi>London,</hi> one Captaine <hi>Scout,</hi> a <hi>Dutch-man,</hi> living on the Marchants Key, neer Sir <hi>William Parſons,</hi> one of the Lord Iuſtices of IRELAND To his worthy friend Mr. <hi>VAN HOOKER.</hi>
+            </p>
+            <p>Bearing Date, <hi>January</hi> 2. 1643.</p>
+            <p>January 9. Printed by <hi>T. Fawcet,</hi> for <hi>J. B.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111008:2"/>
+            <pb n="3" facs="tcp:111008:2"/>
+            <head>The laſt true Intelligence from the Kingdome of IRELAND;</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Diſtractions of <hi>England</hi> hath bin and yet is ſo mighty dangerous, and ſo horrid fearefull, that we have nei<g ref="char:EOLhyphen"/>ther Eares to receive Calamities of our afflicted poore Bretheren the Proteſtants in <hi>Ireland,</hi> nor ſearce Chriſtian hearts to pitty them, being every man fearefull to endute the like here, if not worſe, with<g ref="char:EOLhyphen"/>out the infinite me<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey of God be pleaſed to ſtop it, with the ſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tling of his true Church in order, I mean the reformed Proteſtant Religion, with abolliſhing of Papiſts, Atheiſts, and other vild Sects, that choak the true Goſpell, and the peace of theſe Kingdoms, the which poore <hi>Ireland</hi> hath, and ſtill lives in, with that continuance of griefe, that is inſenſible to any but thoſe which lately have. to give a feeling relati<g ref="char:EOLhyphen"/>on
+<pb n="4" facs="tcp:111008:3"/>of the ſame, for thoſe Proteſtant Gentry that through good hap hath eſcaped to <hi>Dublin,</hi> from the barbarous cruelty of the murthering Rebels, men both well landed, and Moneyed, yet have they bin in <hi>Dublin,</hi> (after their moneys have been gone) glad to fell their Plate, ſuch as ſome by ſtealth could get thither, for halfe a Crowne, and two ſhillings an Ounce, yea, and for eighteen pence an Ounce, Gold Rings of two and twenty ſhillings weight, for ſeven ſhillings, and glad any man will ſo befriend them, Pewter three-pence, and two pence halfe penny, and two pence a pound, and the beſt Braſſe the ſame, Bedding and other Houſhold ſtuffe worth nothing, ſo that Engliſh Proteſtants that have a long time been livers in the Kingdome, Citizens of <hi>Dublin,</hi> who have by gathering all their liſe times a compe<g ref="char:EOLhyphen"/>tent ſubſiſtance for them, and for their Children, hare by the leſſing of Souldiers put upon them, for pay they have not had, nor their Commanders to give them, by which meanes they have been eate and drunke out of all mon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies and goods to relieve them with, as by the ſad relation of an Engliſhman, a Cooke who kept an Ordinary at the ſigne of the Bell, as many here can witneſſe, was a man very able onely by his paines taking and trade, yet be had ſuch a Company ſeaſt upon him, that it utterly undid him, for by his owre confeſſion now in <hi>London</hi> to many of the Parliament, had but renne layne upon his charge, he could have maintained both him, them and his Houſhold well enough, likewiſe ſo all the Ci<g ref="char:EOLhyphen"/>ty
+<pb n="5" facs="tcp:111008:3"/>more and leſſe doe thus complaine, Markets they have, but fleſh very poore, ſqaſhey. and unwhol<g ref="char:EOLhyphen"/>ſome, which hath as many conjecture, bred fluxes, and diſeaſes among them, Bread ſcarce and coorſe, Butter very little, and as deare, and that place ſo plen<g ref="char:EOLhyphen"/>tifull heretofore for Egges, one ſould for a penny, yet is that Towne by the ſtrong ſupportrance of the Caſtle, impoſſible to be taken, and for treachery they have and ſtill take a good courſe to have no dealing or commerce with the <hi>Iriſh</hi> or Papiſt, though Eng<g ref="char:EOLhyphen"/>liſh, is there are ſome, yet tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kes be to God for it, they have had good reliefe by the Sea for Fiſh, as from <hi>Rulloch</hi> the onely Herring-place ſix miles from <hi>Dublin,</hi> have be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ſent up by Boates, infinite of Cod, Haddocke, Place, and like Fiſh, Herrings thirty for a penny, for the porer ſort that have no<g ref="char:EOLhyphen"/>thing to doe, but their paines (may have them for fetching) as for the Rebels in all parts of the Coun<g ref="char:EOLhyphen"/>try, as namely the Pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces of <hi>Munſter, Connough, Limſtar, Vlſter,</hi> and the li<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e by reaſon of our diſtrac<g ref="char:EOLhyphen"/>tio<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s here in <hi>England,</hi> (h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ping th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t it will have no ceſſation of Armes) or unna<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urall Warr one with the other will be ſtill, have in all thoſe parts, being leſt alone by the Engliſh, Plowed, Tild, and ſowne great ſtore of Corne, as Whea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, Rye, Oates, Bar<g ref="char:EOLhyphen"/>ly, Beanes, Peaſe, and Fetches, but the moſt part is Oates and Barly, in hope of a plentifull Crop, and enjoying the Harveſt to themſelves, with Summars Aide from <hi>Spaine</hi> and other places, for ſome of their Commanders have ſtole away, ſince the Earle of
+<pb n="6" facs="tcp:111008:4"/>
+               <hi>VVarwicke</hi> left his Charge upon the Sea, to come unto the Parliaments imployment on the Land, now the <hi>Rebels</hi> being there, intend to raiſe Forces, and tranſport them out of <hi>Spaine,</hi> into <hi>Ireland,</hi> if they can get them over.</p>
+            <p>But God I truſt as he hath ſtill will ever fruſter<g ref="char:EOLhyphen"/>ate their ill intents and make the ſea their grave that thinks to kill and bury us on land, who as they ſup<g ref="char:EOLhyphen"/>poſe have all ſave <hi>Dublin</hi> in their poſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſion, who come not nere it, nor hath ſuch intent, becauſe their Deviliſh Preiſts of antichriſt, that were the ſitſt incendiaries of this evill, ſtill fats them up with pro<g ref="char:EOLunhyphen"/>miſe of their land and all ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll be their owne and they to live happy, I feare happier then when their patron bleſt Saint <hi>Patrick</hi> made all almoſt in com<g ref="char:EOLunhyphen"/>mon in their Land, and did ſo holy ſanctifie the ſame, that all ill moving Creatures from that earth as Frogs, Toades, Adders, Snakes. blud-wormes, Mules, and Aſſes, he charmed downe from a moun<g ref="char:EOLhyphen"/>taine to the ſea, and as their ill tutard ignorance re<g ref="char:EOLhyphen"/>ports, he ſent them into <hi>England, Scotland,</hi> Wales, and the Iſle of man, <hi>Shepey Garuſey,</hi> and other Ilands ſeated in the ſea, but had ſaint <hi>Patrick</hi> b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n worthy of that name he would a baniſht them into the Sea being worſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r vermin and the evill natured, who ſince there wilderneſſe of wolves have bin deſtroyed, they have drawne their natures and conditions from them and are the ſame themſelves, and now live in that ſelfe ſecurity, as they were <hi>Iſraels</hi> Children and that Land were their promiſe, and poore Roges,
+<pb n="6" facs="tcp:111008:4"/>that alwaies naked lived on mountaines, or on moores halfe ſtarved, and eaten up with lice, which vermaine their Saint <hi>Patrick</hi> left enough off, now play on Tabers and on Drum beds for handfulls, and for purſes fild with ſilver and with gold, which they have robd and murdered <hi>Engliſh</hi> for, and vows as it is credibly reported, before the <hi>Engliſh</hi> ere ſhould repoſeſſe thir owne again they would chock<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e themſelves with it, or throw it in the ſea, or bury it in the earth, ſo mighty is their hate to thoſe that have reformed them from bad, as beaſts into huma<g ref="char:EOLhyphen"/>nity, tell now they loſt it, and now them ſelves in midſt of all their welth doth even no more but tan<g ref="char:EOLhyphen"/>taliſe vpon it, for in all parts is ſedition raiſed a<g ref="char:EOLhyphen"/>mongſt them round.</p>
+            <p>There friers in their diſputattons Iarr with each other.</p>
+            <p>Father againſt Father, Doctrine againſt Doc<g ref="char:EOLhyphen"/>trine.</p>
+            <p>And many of the wiſeſt and the nobleſt of them have drawne forth heads and meetings with each other, curſing the firſt begetters of this Rebelli<g ref="char:EOLhyphen"/>on for they them ſelves terme it no better now.</p>
+            <p>Togeather with their ſad Relations, of their ſu<g ref="char:EOLhyphen"/>ture happy lives, both they, their fathers, and their granfathers, before them, and how with peace and plenty, they were bleſt, each Raining as a King o<g ref="char:EOLhyphen"/>ver his owne.</p>
+            <p>This in all parts is tooke into conſideration of
+<pb n="8" facs="tcp:111008:5"/>their wiſeſt, who thinks to find favour by ſup<g ref="char:EOLhyphen"/>preſſing the reſt.</p>
+            <p>Some Skirmiſhes they have had, and as it cre<g ref="char:EOLhyphen"/>dibly reported, they are very like to deſtroy them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>Which if God of his mercy ſend a true and firme uniting betwixt the King and Parliament, they have but ſhort continuance, or time to raine in theſe cruell outrages.</p>
+            <closer>
+               <signed>Your Friend to Command <hi>J. Skout.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
